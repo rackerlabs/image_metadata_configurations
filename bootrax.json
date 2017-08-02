@@ -25,7 +25,7 @@
     "org.openstack__1__os_version": "1.0",
     "os_distro": "boot.rax",
     "os_type": "linux",
-    "protected": 1,
+    "protected": 0,
     "vm_mode": "hvm",
     "xenapi_use_agent": "false"
 }
